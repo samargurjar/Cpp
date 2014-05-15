@@ -142,3 +142,34 @@
 ###### POC for calling constructor and destructor
 
 
+
+# In Part 5.2
+
+### [abstract.cpp](https://github.com/samargurjar/Cpp/blob/master/Module1/part5.2/abstract.cpp)
+
+###### POC for providing abstract information at different case scenario
+
+
+### [constructor and destructor behavior duringinheritance.cpp](https://github.com/samargurjar/Cpp/blob/master/Module1/part5.2/constructor%20and%20destructor%20behaviour%20duringinheritance.cpp)
+
+###### POC for testing constractor and destructor behavior during inheritance
+
+
+### [destructorbehaviour.cpp](https://github.com/samargurjar/Cpp/blob/master/Module1/part5.2/destructorbehaviour.cpp)
+
+###### POC for destructor behavior in inheritance
+
+
+### [interface.cpp](https://github.com/samargurjar/Cpp/blob/master/Module1/part5.2/interface.cpp)
+
+###### POC for interface testing
+
+
+### [rtp.cpp](https://github.com/samargurjar/Cpp/blob/master/Module1/part5.2/rtp.cpp)
+
+###### It is POC for runtime polymorhism using interface 
+
+
+### [RTPAtworkprove.cpp](https://github.com/samargurjar/Cpp/blob/master/Module1/part5.2/RTPAtworkprove.cpp)
+
+###### It is POC for runtime polymorphism
