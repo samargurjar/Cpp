@@ -173,3 +173,42 @@
 ### [RTPAtworkprove.cpp](https://github.com/samargurjar/Cpp/blob/master/Module1/part5.2/RTPAtworkprove.cpp)
 
 ###### It is POC for runtime polymorphism
+
+
+
+# In Part 6
+
+
+### [composition.cpp](https://github.com/samargurjar/Cpp/blob/master/Module1/part6/composition.cpp)
+
+###### POC for creating or composing class object within another object
+
+
+### [constfunction.cpp](https://github.com/samargurjar/Cpp/blob/master/Module1/part6/constfunction.cpp)
+
+###### POC for function defination outside the class or file
+
+
+### [constractort.cpp](https://github.com/samargurjar/Cpp/blob/master/Module1/part6/constructort.cpp)
+
+###### POC for calling constructor of base class when drived class object is created
+
+
+### [destructorexample.cpp](https://github.com/samargurjar/Cpp/blob/master/Module1/part6/destructorexample.cpp)
+
+###### It is the example for the destruction function
+
+
+### [namespaceadv.cpp](https://github.com/samargurjar/Cpp/blob/master/Module1/part6/namespaceadv.cpp)
+
+###### POC for the namspace working structure 
+
+
+### [operator overloading.cpp](https://github.com/samargurjar/Cpp/blob/master/Module1/part6/operator%20overloading.cpp)
+
+###### POC for the operator overloading
+
+
+### [ShoppingCArt.cpp](https://github.com/samargurjar/Cpp/blob/master/Module1/part6/ShoppingCArt.cpp)
+
+###### It is an example of the shopping cart using inheritance 
